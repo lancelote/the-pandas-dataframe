@@ -1,6 +1,6 @@
 # the-pandas-dataframe
 
-My notes while going through "[The Pandas DataFrame: Working With Data Efficiently][course]"
+My notes while going through "[The Pandas DataFrame: Working With Data Efficiently][course]" by [Real Python][realpython]
 
 ## TOC
 
@@ -11,3 +11,4 @@ My notes while going through "[The Pandas DataFrame: Working With Data Efficient
 - [ ] Working With Time Series and Plotting Data
 
 [course]: https://realpython.com/courses/pandas-dataframe-working-with-data/
+[realpython]: https://realpython.com/
