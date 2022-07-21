@@ -7,8 +7,8 @@ attributes:
     editor:
       type: PyCharm
 components:
-- name: image-build
+- name: dev-container
   image:
-  imageName: dev-image:latest
-  dockerfile:
-    uri: docker/Dockerfile
+    imageName: dev-image:latest
+    dockerfile:
+      uri: docker/Dockerfile
