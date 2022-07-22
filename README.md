@@ -4,7 +4,7 @@ My notes while going through "[The Pandas DataFrame: Working With Data Efficient
 
 ## TOC
 
-- [ ] [The Pandas DataFrame: Working With Data Efficiently](src/section1.ipynb)
+- [x] [The Pandas DataFrame: Working With Data Efficiently](src/section1.ipynb)
 - [ ] Creating Pandas DataFrames
 - [ ] Accessing and Modifying Data
 - [ ] Sorting, Filtering, and Handling Missing Data
